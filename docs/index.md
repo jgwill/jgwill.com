@@ -6,3 +6,5 @@ There will be not much in here because JGWill.com is not a web or public platfor
 Regards,
 
 P.S.  Thought, focus on: It is "Just GoOD WIll"
+
+![](cdn/COAIARR.png)
