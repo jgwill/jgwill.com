@@ -11,3 +11,11 @@ P.S.  Thought, focus on: It is "Just GoOD WIll"
 
 ![](cdn/COAIARR.png)
 
+
+
+----
+LEGAL WORKS
+----
+
+[LICENSE-IKSL.md](LICENSE-IKSL.md)
+
